@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.12)
+project(DMOPC__18_Contest_2_P2___Booster_Cushions)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(DMOPC__18_Contest_2_P2___Booster_Cushions main.cpp)

@@ -1,0 +1,3 @@
+﻿  GameOfTwoStacks.cpp
+c:\users\jason huang\source\repos\gameoftwostacks\gameoftwostacks\gameoftwostacks.cpp(87): warning C4715: 'unStack': not all control paths return a value
+  GameOfTwoStacks.vcxproj -> C:\Users\Jason Huang\source\repos\GameOfTwoStacks\Debug\GameOfTwoStacks.exe

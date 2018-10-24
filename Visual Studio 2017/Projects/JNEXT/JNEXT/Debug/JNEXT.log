@@ -1,0 +1,3 @@
+﻿  JNEXT.cpp
+c:\users\jason huang\source\repos\jnext\jnext\jnext.cpp(30): warning C4018: '<': signed/unsigned mismatch
+  JNEXT.vcxproj -> C:\Users\Jason Huang\source\repos\JNEXT\Debug\JNEXT.exe

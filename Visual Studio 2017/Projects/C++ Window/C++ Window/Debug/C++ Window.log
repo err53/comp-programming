@@ -1,0 +1,5 @@
+﻿  windowCreation.cpp
+d:\my files\documents\visual studio 2017\projects\c++ window\c++ window\windowcreation.cpp(37): warning C4302: 'type cast': truncation from 'LPWSTR' to 'WORD'
+d:\my files\documents\visual studio 2017\projects\c++ window\c++ window\windowcreation.cpp(42): warning C4302: 'type cast': truncation from 'LPWSTR' to 'WORD'
+  C++ Window.vcxproj -> d:\my files\documents\visual studio 2017\Projects\C++ Window\Debug\C++ Window.exe
+  C++ Window.vcxproj -> d:\my files\documents\visual studio 2017\Projects\C++ Window\Debug\C++ Window.pdb (Partial PDB)

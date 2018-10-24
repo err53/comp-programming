@@ -1,0 +1,3 @@
+C:/Users/jason/CLionProjects/Bubble Cup V8 D Potions homework/cmake-build-debug/CMakeFiles/Bubble_Cup_V8_D_Potions_homework.dir
+C:/Users/jason/CLionProjects/Bubble Cup V8 D Potions homework/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jason/CLionProjects/Bubble Cup V8 D Potions homework/cmake-build-debug/CMakeFiles/rebuild_cache.dir

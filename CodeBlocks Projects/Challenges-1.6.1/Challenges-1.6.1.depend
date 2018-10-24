@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1505617811 source:d:\codeblocks projects\challenges-1.6.1\main.cpp
+	<iostream>
+	<sstream>
+	<string>
+

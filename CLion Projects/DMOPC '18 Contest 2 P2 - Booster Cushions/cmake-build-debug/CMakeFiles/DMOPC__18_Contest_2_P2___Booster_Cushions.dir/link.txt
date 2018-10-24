@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/DMOPC__18_Contest_2_P2___Booster_Cushions.dir/main.cpp.o  -o DMOPC__18_Contest_2_P2___Booster_Cushions 

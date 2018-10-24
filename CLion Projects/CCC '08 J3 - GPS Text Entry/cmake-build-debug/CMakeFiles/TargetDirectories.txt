@@ -1,0 +1,3 @@
+C:/Users/jason/CLionProjects/CCC '08 J3 - GPS Text Entry/cmake-build-debug/CMakeFiles/CCC__08_J3___GPS_Text_Entry.dir
+C:/Users/jason/CLionProjects/CCC '08 J3 - GPS Text Entry/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jason/CLionProjects/CCC '08 J3 - GPS Text Entry/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1501463269 source:d:\codeblocks projects\ccc practice 2017 j2\main.cpp
+	<iostream>
+	<cmath>
+	<vector>
+

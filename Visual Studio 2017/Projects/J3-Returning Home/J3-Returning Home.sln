@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "J3-Returning Home", "J3-Returning Home\J3-Returning Home.vcxproj", "{63888443-C73C-4204-8FCC-9032A4307CB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63888443-C73C-4204-8FCC-9032A4307CB9}.Debug|x64.ActiveCfg = Debug|x64
+		{63888443-C73C-4204-8FCC-9032A4307CB9}.Debug|x64.Build.0 = Debug|x64
+		{63888443-C73C-4204-8FCC-9032A4307CB9}.Debug|x86.ActiveCfg = Debug|Win32
+		{63888443-C73C-4204-8FCC-9032A4307CB9}.Debug|x86.Build.0 = Debug|Win32
+		{63888443-C73C-4204-8FCC-9032A4307CB9}.Release|x64.ActiveCfg = Release|x64
+		{63888443-C73C-4204-8FCC-9032A4307CB9}.Release|x64.Build.0 = Release|x64
+		{63888443-C73C-4204-8FCC-9032A4307CB9}.Release|x86.ActiveCfg = Release|Win32
+		{63888443-C73C-4204-8FCC-9032A4307CB9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08D21C3E-19DE-4DCE-8E39-EBA3278D7E3B}
+	EndGlobalSection
+EndGlobal

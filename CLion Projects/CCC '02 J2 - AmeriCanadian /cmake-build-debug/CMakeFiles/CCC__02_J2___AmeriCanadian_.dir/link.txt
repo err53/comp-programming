@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/CCC__02_J2___AmeriCanadian_.dir/main.cpp.o  -o CCC__02_J2___AmeriCanadian_ 

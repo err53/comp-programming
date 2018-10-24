@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1526081309 source:c:\users\jason huang\codeblocks projects\lines\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<queue>
+	<iostream>
+	<cstdio>
+	<queue>
+

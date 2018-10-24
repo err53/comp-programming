@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/run/media/jhuang/Storage/002 - Computer/Programming/C++/CLionProjects/CCC '10 J2 - Up and Down /main.cpp
+bits/stdc++.h
+-
+

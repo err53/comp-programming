@@ -1,0 +1,3 @@
+C:/Users/jason/CLionProjects/AnagramChecker/cmake-build-debug/CMakeFiles/AnagramChecker.dir
+C:/Users/jason/CLionProjects/AnagramChecker/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jason/CLionProjects/AnagramChecker/cmake-build-debug/CMakeFiles/rebuild_cache.dir

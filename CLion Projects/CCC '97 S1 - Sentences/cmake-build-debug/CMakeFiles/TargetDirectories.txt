@@ -1,0 +1,3 @@
+C:/Users/jason/CLionProjects/CCC '97 S1 - Sentences/cmake-build-debug/CMakeFiles/CCC__97_S1___Sentences.dir
+C:/Users/jason/CLionProjects/CCC '97 S1 - Sentences/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jason/CLionProjects/CCC '97 S1 - Sentences/cmake-build-debug/CMakeFiles/rebuild_cache.dir

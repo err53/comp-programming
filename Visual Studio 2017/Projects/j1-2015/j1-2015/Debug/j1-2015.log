@@ -1,0 +1,5 @@
+﻿  j1-2015.cpp
+d:\my files\documents\visual studio 2017\projects\j1-2015\j1-2015\j1-2015.cpp(37): warning C4101: 'out': unreferenced local variable
+d:\my files\documents\visual studio 2017\projects\j1-2015\j1-2015\j1-2015.cpp(33): warning C4715: 'checkDate': not all control paths return a value
+  j1-2015.vcxproj -> d:\my files\documents\visual studio 2017\Projects\j1-2015\Debug\j1-2015.exe
+  j1-2015.vcxproj -> d:\my files\documents\visual studio 2017\Projects\j1-2015\Debug\j1-2015.pdb (Partial PDB)

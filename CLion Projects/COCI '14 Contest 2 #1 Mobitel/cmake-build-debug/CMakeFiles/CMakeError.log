@@ -1,0 +1,26 @@
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: C:/Users/jason/CLionProjects/COCI '14 Contest 2 #1 Mobitel/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/MinGW/bin/mingw32-make.exe" "cmTC_44fef/fast"
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_44fef.dir\build.make CMakeFiles/cmTC_44fef.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/jason/CLionProjects/COCI '14 Contest 2 #1 Mobitel/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: Leaving directory 'C:/Users/jason/CLionProjects/COCI '14 Contest 2 #1 Mobitel/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: *** No rule to make target 'C:/Users/jason/CLionProjects/COCI '14 Contest 2\', needed by 'CMakeFiles/cmTC_44fef.dir/feature_tests.c.obj'.  Stop.
+Makefile:120: recipe for target 'cmTC_44fef/fast' failed
+mingw32-make.exe: *** [cmTC_44fef/fast] Error 2
+
+
+
+Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
+Change Dir: C:/Users/jason/CLionProjects/COCI '14 Contest 2 #1 Mobitel/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/MinGW/bin/mingw32-make.exe" "cmTC_ab736/fast"
+C:/MinGW/bin/mingw32-make.exe -f CMakeFiles\cmTC_ab736.dir\build.make CMakeFiles/cmTC_ab736.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/jason/CLionProjects/COCI '14 Contest 2 #1 Mobitel/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: Leaving directory 'C:/Users/jason/CLionProjects/COCI '14 Contest 2 #1 Mobitel/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: *** No rule to make target 'C:/Users/jason/CLionProjects/COCI '14 Contest 2\', needed by 'CMakeFiles/cmTC_ab736.dir/feature_tests.cxx.obj'.  Stop.
+Makefile:120: recipe for target 'cmTC_ab736/fast' failed
+mingw32-make.exe: *** [cmTC_ab736/fast] Error 2
+
+
+

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.12)
+project(DMOPC__17_Contest_4_P4___Cops_and_Robbers)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(DMOPC__17_Contest_4_P4___Cops_and_Robbers main.cpp)

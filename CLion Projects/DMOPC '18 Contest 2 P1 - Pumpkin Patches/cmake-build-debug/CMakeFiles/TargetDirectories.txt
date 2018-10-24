@@ -1,0 +1,3 @@
+/run/media/jhuang/Storage/CLionProjects/DMOPC '18 Contest 2 P1 - Pumpkin Patches/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/run/media/jhuang/Storage/CLionProjects/DMOPC '18 Contest 2 P1 - Pumpkin Patches/cmake-build-debug/CMakeFiles/edit_cache.dir
+/run/media/jhuang/Storage/CLionProjects/DMOPC '18 Contest 2 P1 - Pumpkin Patches/cmake-build-debug/CMakeFiles/DMOPC__18_Contest_2_P1___Pumpkin_Patches.dir

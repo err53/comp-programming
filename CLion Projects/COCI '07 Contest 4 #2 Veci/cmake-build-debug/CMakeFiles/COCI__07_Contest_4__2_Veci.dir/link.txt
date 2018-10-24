@@ -1,0 +1,3 @@
+C:\Users\jason\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\182.4505.18\bin\cmake\win\bin\cmake.exe -E remove -f CMakeFiles\COCI__07_Contest_4__2_Veci.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\COCI__07_Contest_4__2_Veci.dir/objects.a @CMakeFiles\COCI__07_Contest_4__2_Veci.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\COCI__07_Contest_4__2_Veci.dir/objects.a -Wl,--no-whole-archive  -o COCI__07_Contest_4__2_Veci.exe -Wl,--out-implib,libCOCI__07_Contest_4__2_Veci.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\COCI__07_Contest_4__2_Veci.dir\linklibs.rsp
