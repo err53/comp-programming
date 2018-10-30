@@ -1,3 +1,0 @@
-C:/Users/jason/CLionProjects/COCI '08 Contest 4 #1 Mjehuric/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/jason/CLionProjects/COCI '08 Contest 4 #1 Mjehuric/cmake-build-debug/CMakeFiles/untitled.dir
-C:/Users/jason/CLionProjects/COCI '08 Contest 4 #1 Mjehuric/cmake-build-debug/CMakeFiles/rebuild_cache.dir

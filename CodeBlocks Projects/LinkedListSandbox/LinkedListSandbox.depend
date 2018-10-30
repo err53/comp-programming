@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1524710460 source:c:\users\jason huang\codeblocks projects\linkedlistsandbox\main.cpp
-	<iostream>
-	<string>
-	<forward_list>
-

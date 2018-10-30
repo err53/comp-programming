@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/DMOPC__18_Contest_2_P4___Damage_Output_.dir/main.cpp.o  -o DMOPC__18_Contest_2_P4___Damage_Output_ 

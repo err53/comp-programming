@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/jason/Storage/002 - Computer/Programming/comp-programming/CLion Projects/CCC '10 S2 - Huffman Encoding/main.cpp
+bits/stdc++.h
+-
+

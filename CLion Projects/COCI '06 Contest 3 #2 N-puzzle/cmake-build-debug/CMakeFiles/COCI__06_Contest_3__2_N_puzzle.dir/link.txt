@@ -1,3 +1,0 @@
-C:\Users\jason\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\182.4505.18\bin\cmake\win\bin\cmake.exe -E remove -f CMakeFiles\COCI__06_Contest_3__2_N_puzzle.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\COCI__06_Contest_3__2_N_puzzle.dir/objects.a @CMakeFiles\COCI__06_Contest_3__2_N_puzzle.dir\objects1.rsp
-C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\COCI__06_Contest_3__2_N_puzzle.dir/objects.a -Wl,--no-whole-archive  -o COCI__06_Contest_3__2_N_puzzle.exe -Wl,--out-implib,libCOCI__06_Contest_3__2_N_puzzle.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\COCI__06_Contest_3__2_N_puzzle.dir\linklibs.rsp

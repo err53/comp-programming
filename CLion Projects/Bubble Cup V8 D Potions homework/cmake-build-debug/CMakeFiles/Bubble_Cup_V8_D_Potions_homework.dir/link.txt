@@ -1,3 +1,0 @@
-C:\Users\jason\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\182.4505.18\bin\cmake\win\bin\cmake.exe -E remove -f CMakeFiles\Bubble_Cup_V8_D_Potions_homework.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\Bubble_Cup_V8_D_Potions_homework.dir/objects.a @CMakeFiles\Bubble_Cup_V8_D_Potions_homework.dir\objects1.rsp
-C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Bubble_Cup_V8_D_Potions_homework.dir/objects.a -Wl,--no-whole-archive  -o Bubble_Cup_V8_D_Potions_homework.exe -Wl,--out-implib,libBubble_Cup_V8_D_Potions_homework.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Bubble_Cup_V8_D_Potions_homework.dir\linklibs.rsp

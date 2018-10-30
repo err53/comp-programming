@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1526789850 source:c:\users\jason huang\codeblocks projects\reversechars\main.cpp
-	<iostream>
-	<string>
-	<stack>
-

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/CCC__07_S2___Boxes.dir/main.cpp.o  -o CCC__07_S2___Boxes 

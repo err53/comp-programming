@@ -1,5 +1,0 @@
-﻿  Mars.cpp
-c:\users\jason huang\source\repos\mars\mars\mars.cpp(15): warning C4018: '<': signed/unsigned mismatch
-c:\users\jason huang\source\repos\mars\mars\mars.cpp(20): warning C4018: '<': signed/unsigned mismatch
-c:\users\jason huang\source\repos\mars\mars\mars.cpp(34): warning C4018: '<': signed/unsigned mismatch
-  Mars.vcxproj -> C:\Users\Jason Huang\source\repos\Mars\Debug\Mars.exe

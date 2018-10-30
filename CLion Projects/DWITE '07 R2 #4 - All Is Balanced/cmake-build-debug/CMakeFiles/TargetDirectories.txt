@@ -1,3 +1,0 @@
-C:/Users/jason/CLionProjects/DWITE '07 R2 #4 - All Is Balanced/cmake-build-debug/CMakeFiles/DWITE__07_R2__4___All_Is_Balanced.dir
-C:/Users/jason/CLionProjects/DWITE '07 R2 #4 - All Is Balanced/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/jason/CLionProjects/DWITE '07 R2 #4 - All Is Balanced/cmake-build-debug/CMakeFiles/rebuild_cache.dir
