@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jason/Documents/Learning/Extra/Competition Programming/Current Projects/CCC '15 J2 - Happy or Sad/main.cpp
+bits/stdc++.h
+-
+

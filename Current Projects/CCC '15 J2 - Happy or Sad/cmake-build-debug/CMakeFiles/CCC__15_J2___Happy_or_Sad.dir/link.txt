@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/CCC__15_J2___Happy_or_Sad.dir/main.cpp.o  -o CCC__15_J2___Happy_or_Sad 
